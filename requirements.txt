@@ -1,0 +1,9 @@
+pandas
+numpy
+rapidfuzz
+sqlite3
+streamlit
+fastapi
+uvicorn
+scikit-learn
+python-dateutil

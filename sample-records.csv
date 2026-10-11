@@ -1,0 +1,8 @@
+id,name,email,phone,address,source,last_updated
+1,Jonathan Smith,jon.smith@gmail.com,9876543210,Chennai,CRM,2026-04-01
+2,Jon Smith,jonsmith@gmail.com,9876543210,Chennai,Website,2026-04-02
+3,J Smith,jon.s@gmail.com,9876543210,Chennai,Support,2026-04-03
+4,Robert Williams,rob@gmail.com,9999999999,Bangalore,CRM,2026-04-01
+5,Rob Williams,rw@gmail.com,9999999999,Bangalore,Website,2026-04-02
+6,Maria Garcia,maria@gmail.com,8888888888,Mumbai,CRM,2026-04-01
+7,M. Garcia,maria.g@gmail.com,8888888888,Mumbai,Website,2026-04-03
